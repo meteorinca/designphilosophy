@@ -1,6 +1,6 @@
-# Simplifying Fractions - Design Philosophy & Implementation Guide
+# MoeMath - Design Philosophy & Implementation Guide
 
-> A comprehensive document detailing the design choices, pedagogical approach, and implementation patterns used in the Simplifying Fractions learning module. This guide is intended to help future developers replicate or adapt this approach for other mathematical topics.
+> A comprehensive document detailing the design choices, pedagogical approach, and implementation patterns used in the MoeMath learning modules. This guide (using simplify fraction module) is intended to help future developers replicate or adapt this approach for other mathematical topics.
 
 ---
 
@@ -691,3 +691,4 @@ Future developers should use this as a template: start with the problem, add vis
 *Document Version: 1.0*  
 *Last Updated: February 2026*  
 *Purpose: Guide for replicating pedagogical UI patterns across math learning modules*
+
